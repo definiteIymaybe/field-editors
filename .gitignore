@@ -11,7 +11,7 @@ node_modules
 .rts2_cache_umd
 package-lock.json
 /mochawesome-report
-build/
+# build/
 dist/
 cypress/videos
 cypress/screenshots
